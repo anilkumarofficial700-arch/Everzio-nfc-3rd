@@ -1,0 +1,6 @@
+{
+  "name": "EVERZIO NFC & QR Digital Business Platform",
+  "description": "Dynamic NFC and QR business cards platform with stable physical URLs and instant cloud management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

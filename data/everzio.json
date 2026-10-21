@@ -1,0 +1,798 @@
+{
+  "customers": [
+    {
+      "id": "cust_royal_01",
+      "business_name": "Royal Restaurant",
+      "business_category": "North Indian & Fine Dining",
+      "owner_name": "Rajesh Sharma",
+      "phone": "+91 98765 43210",
+      "whatsapp": "+91 91111 22222",
+      "instagram_url": "https://instagram.com/royal_restaurant_official",
+      "facebook_url": "https://facebook.com/royalrestaurantofficial",
+      "google_review_url": "https://search.google.com/local/writereview?placeid=ChIJN1t_tDeuEmsRUsoyG83frY4",
+      "website_url": "https://royalrestaurant.example.in",
+      "google_maps_url": "https://maps.google.com/?q=Royal+Restaurant+MG+Road+Bangalore",
+      "description": "Authentic culinary heritage serving rich gravies, slow-cooked dum biryanis, fresh breads from clay ovens, and handcrafted desserts.",
+      "logo_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&auto=format&fit=crop&q=80",
+      "status": "ACTIVE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-21T10:31:17.285Z",
+      "slug": "royal-restaurant",
+      "subscription_status": "ACTIVE",
+      "owner_email": "royal-restaurant@everzio.in",
+      "owner_password_salt": "43cabe37ca234e0ece87fdd37ec46013",
+      "owner_password_hash": "bd6dc06d18d6b4ea6e3f6bc145d1cd7afeee5daeca532d97ed7919ec906204e00d63f811b8feb1bfba6b5f398d4844549577bbc42a46c542146d1c3433de3b99"
+    },
+    {
+      "id": "cust_sharma_02",
+      "business_name": "Sharma Hotel",
+      "business_category": "Boutique Hotel & Executive Suites",
+      "owner_name": "Vikram Sharma",
+      "phone": "+91 98222 11111",
+      "whatsapp": "+91 98222 11111",
+      "instagram_url": "https://instagram.com/sharma_hotel_suites",
+      "facebook_url": "",
+      "google_review_url": "https://search.google.com/local/writereview?placeid=ChIJN1t_tDeuEmsRUsoyG83frY5",
+      "website_url": "https://sharmahotel.example.in",
+      "google_maps_url": "https://maps.google.com/?q=Sharma+Hotel+Station+Road+Jaipur",
+      "description": "Unmatched hospitality featuring modern luxury suites, 24/7 concierge, business lounge, and airport shuttle services.",
+      "logo_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=400&auto=format&fit=crop&q=80",
+      "status": "ACTIVE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-20T15:43:47.158Z",
+      "slug": "sharma-hotel",
+      "subscription_status": "ACTIVE",
+      "owner_email": "sharma-hotel@everzio.in",
+      "owner_password_salt": "2c04cd3f81eb3e1dfde38dca3cc06123",
+      "owner_password_hash": "57302eb456ea2bc41ae88415e2bd8e96602487401782e43efbc9703acbeeda02b7732b8a7996c47c2c26962847ec3e045b44d31caee532c091742459ee18670d"
+    },
+    {
+      "id": "cust_urban_03",
+      "business_name": "Urban Salon",
+      "business_category": "Luxury Unisex Salon & Wellness Spa",
+      "owner_name": "Pooja Mehta",
+      "phone": "+91 97111 22233",
+      "whatsapp": "+91 97111 22233",
+      "instagram_url": "https://instagram.com/urban_salon_spa",
+      "facebook_url": "https://facebook.com/urbansalonandspa",
+      "google_review_url": "https://search.google.com/local/writereview?placeid=ChIJN1t_tDeuEmsRUsoyG83frY6",
+      "website_url": "https://urbansalon.example.in",
+      "google_maps_url": "https://maps.google.com/?q=Urban+Salon+Indiranagar+Bangalore",
+      "description": "Award-winning hairstyling, revitalizing skin treatments, luxury hair rituals, and bridal couture makeovers in a calm, ambient studio.",
+      "logo_url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=400&auto=format&fit=crop&q=80",
+      "status": "ACTIVE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-20T15:43:47.158Z",
+      "slug": "urban-salon",
+      "subscription_status": "ACTIVE",
+      "owner_email": "urban-salon@everzio.in",
+      "owner_password_salt": "2124d322b6a77bb86ba2ee8f867d561d",
+      "owner_password_hash": "772de3fe4c34ba2c4de23e57cf28db2d4cde8ff7cecfb86b1d0408df38e7dbc189aa1e01b33bda8c7cab6738fac3c27b484992d4cde1ef5f5a5f43def6c87d59"
+    },
+    {
+      "business_name": "Spice Haven Cafe",
+      "business_category": "Artisanal Coffee & Bakery",
+      "owner_name": "Rohan Patel",
+      "phone": "+91 98888 77777",
+      "whatsapp": "+91 97777 88888",
+      "instagram_url": "https://instagram.com/spice_haven_cafe",
+      "facebook_url": "https://facebook.com/spicehavencafe",
+      "google_review_url": "https://search.google.com/local/writereview?placeid=ChIJspicehaven123",
+      "website_url": "https://spicehavencafe.example.in",
+      "google_maps_url": "https://maps.google.com/?q=Spice+Haven+Cafe",
+      "description": "Specialty brews, single-origin roasts, and oven-fresh croissants.",
+      "logo_url": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
+      "status": "ACTIVE",
+      "id": "cust_1792570971511_a4f4z",
+      "created_at": "2026-10-21T08:22:51.511Z",
+      "updated_at": "2026-10-21T08:22:51.522Z",
+      "slug": "spice-haven-cafe",
+      "subscription_status": "ACTIVE",
+      "owner_email": "spice-haven-cafe@everzio.in",
+      "owner_password_salt": "4b5328a058135b92420fc3bec2dce5d0",
+      "owner_password_hash": "fc1dabbb86352934052d111dd356125df864a556114875060723bf3aae1f465e286f9dc7cb2625b4b5abb0e8d55995616a4b316a5ea71bbf85bc7800772f9c3c"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card_evz_482731",
+      "card_code": "EVZ482731",
+      "customer_id": "cust_royal_01",
+      "status": "ACTIVE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-20T15:43:47.158Z"
+    },
+    {
+      "id": "card_evz_105924",
+      "card_code": "EVZ105924",
+      "customer_id": "cust_sharma_02",
+      "status": "ACTIVE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-20T15:43:47.158Z"
+    },
+    {
+      "id": "card_evz_731608",
+      "card_code": "EVZ731608",
+      "customer_id": "cust_urban_03",
+      "status": "ACTIVE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-20T15:43:47.158Z"
+    },
+    {
+      "id": "card_evz_904215",
+      "card_code": "EVZ904215",
+      "customer_id": null,
+      "status": "AVAILABLE",
+      "created_at": "2026-10-20T15:43:47.158Z",
+      "updated_at": "2026-10-21T08:25:16.261Z"
+    },
+    {
+      "id": "card_evz_315782",
+      "card_code": "EVZ315782",
+      "customer_id": "cust_1792570971511_a4f4z",
+      "status": "ACTIVE",
+      "created_at": "2026-10-21T08:22:51.518Z",
+      "updated_at": "2026-10-21T08:25:46.575Z"
+    }
+  ],
+  "admin": {
+    "id": "admin_root",
+    "email": "admin@everzio.in",
+    "passwordHash": "4cf443bacd40ea087c113ffe9d09e0005cbbcf3c4d3a4c55f97071a89a0d01340d68d843885d25cf4cfe98efa550c1c58fc8c9b9d6e96defe907695c86475fcc",
+    "salt": "9b6e16b22ba956ecbafa596f391eb206",
+    "role": "admin",
+    "name": "Everzio Administrator"
+  },
+  "sessions": [
+    {
+      "token": "c3df69f697b29d26ead3d37ce402fd379b94c6997f8ccff5981744b842ec2223",
+      "userId": "admin_root",
+      "expiresAt": 1793116260905
+    },
+    {
+      "token": "c37ac5f128c59f460370ec67f0a1fae1af2cca37c9b6e77e9dedafafe2b6c08d",
+      "userId": "admin_root",
+      "expiresAt": 1793116292580
+    },
+    {
+      "token": "fe70fdaa9eda2ce0f6855ae34d2d3767728ee10f78b1cfe20720c4762637c04b",
+      "userId": "admin_root",
+      "expiresAt": 1793116329229
+    },
+    {
+      "token": "1110782e432864220153f5b830db400da28c6ac6229647f363902d800f2e1d44",
+      "userId": "admin_root",
+      "expiresAt": 1793116382924
+    },
+    {
+      "token": "0d1bc8a0baa379b3b021891d57f952de0e5594b8d5582fc406c6dc3c9757f887",
+      "userId": "admin_root",
+      "expiresAt": 1793116448977
+    },
+    {
+      "token": "4891a9e3f8808ce8b663a60f5a81c77f0f1364e310e79a32fc79ef1462fe1cb1",
+      "userId": "admin_root",
+      "expiresAt": 1793181902939
+    }
+  ],
+  "settings": {
+    "baseDomain": "https://everzio.in",
+    "brandName": "EVERZIO"
+  },
+  "menus": [
+    {
+      "id": "menu_cust_royal_01",
+      "business_id": "cust_royal_01",
+      "slug": "royal-restaurant",
+      "published_version": {
+        "categories": [
+          {
+            "id": "cat_specials",
+            "name": "House Specialties",
+            "display_order": 1
+          },
+          {
+            "id": "cat_classics",
+            "name": "Popular Classics",
+            "display_order": 2
+          }
+        ],
+        "items": [
+          {
+            "id": "item_royal_01",
+            "category_id": "cat_specials",
+            "name": "Paneer Tikka Angara",
+            "description": "Charcoal-smoked cottage cheese marinated in hung curd, Kashmiri chili, and crushed spices.",
+            "price": 290,
+            "display_order": 1,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg",
+              "Chef Special"
+            ]
+          },
+          {
+            "id": "item_royal_02",
+            "category_id": "cat_specials",
+            "name": "Murgh Malai Tikka",
+            "description": "Tender chicken skewers flavored with cream cheese, cardamom, and fresh coriander.",
+            "price": 360,
+            "display_order": 2,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_royal_03",
+            "category_id": "cat_classics",
+            "name": "Dal Makhani Royal",
+            "description": "Slow-simmered black lentils cooked overnight with churned butter and vine-ripened tomatoes.",
+            "price": 260,
+            "display_order": 3,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg",
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_royal_04",
+            "category_id": "cat_classics",
+            "name": "Dum Pukht Murgh Biryani",
+            "description": "Long-grain aged basmati rice layered with spiced chicken, caramelized onions, and saffron aroma.",
+            "price": 380,
+            "display_order": 4,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_royal_05",
+            "category_id": "cat_classics",
+            "name": "Garlic & Herb Butter Naan",
+            "description": "Handcrafted flatbread baked in clay tandoor, brushed with roasted garlic butter and cilantro.",
+            "price": 65,
+            "display_order": 5,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg"
+            ]
+          },
+          {
+            "id": "item_royal_06",
+            "category_id": "cat_specials",
+            "name": "Saffron Kulfi Falooda",
+            "description": "Traditional slow-churned condensed milk kulfi infused with Kashmiri saffron and rose syrup.",
+            "price": 150,
+            "display_order": 6,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg",
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "test_item_99",
+            "category_id": "cat_specials",
+            "name": "Saffron Kulfi Falooda",
+            "description": "Traditional slow-churned condensed milk kulfi with rose syrup.",
+            "price": 150,
+            "display_order": 9,
+            "visible": true,
+            "available": true
+          },
+          {
+            "id": "test_item_99",
+            "category_id": "cat_specials",
+            "name": "Saffron Kulfi Falooda",
+            "description": "Traditional slow-churned condensed milk kulfi with rose syrup.",
+            "price": 150,
+            "display_order": 9,
+            "visible": true,
+            "available": true
+          }
+        ],
+        "updated_at": "2026-10-21T10:31:17.284Z"
+      },
+      "pending_status": "PENDING_APPROVAL",
+      "update_history": [
+        {
+          "id": "hist_1792578677285",
+          "timestamp": "2026-10-21T10:31:17.285Z",
+          "updated_by": "test-owner",
+          "status": "BLOCKED_SUBSCRIPTION",
+          "notes": "Subscription has expired. Renew your active plan to publish digital menu updates."
+        },
+        {
+          "id": "hist_1792578677284",
+          "timestamp": "2026-10-21T10:31:17.284Z",
+          "updated_by": "test-owner",
+          "status": "PUBLISHED",
+          "notes": "Published automatically with active subscription"
+        },
+        {
+          "id": "hist_1792578548507",
+          "timestamp": "2026-10-21T10:29:08.507Z",
+          "updated_by": "test-owner",
+          "status": "BLOCKED_SUBSCRIPTION",
+          "notes": "Subscription has expired. Renew your active plan to publish digital menu updates."
+        },
+        {
+          "id": "hist_1792578548506",
+          "timestamp": "2026-10-21T10:29:08.506Z",
+          "updated_by": "test-owner",
+          "status": "PUBLISHED",
+          "notes": "Published automatically with active subscription"
+        },
+        {
+          "id": "hist_1792577929218",
+          "timestamp": "2026-10-21T10:18:49.218Z",
+          "updated_by": "test-owner",
+          "status": "BLOCKED_SUBSCRIPTION",
+          "notes": "Subscription has expired. Renew your active plan to publish digital menu updates."
+        },
+        {
+          "id": "hist_1792577929217",
+          "timestamp": "2026-10-21T10:18:49.217Z",
+          "updated_by": "test-owner",
+          "status": "PUBLISHED",
+          "notes": "Published automatically with active subscription"
+        },
+        {
+          "id": "hist_1792576998693",
+          "timestamp": "2026-10-21T10:03:18.693Z",
+          "updated_by": "test-owner",
+          "status": "BLOCKED_SUBSCRIPTION",
+          "notes": "Subscription has expired. Renew your active plan to publish digital menu updates."
+        },
+        {
+          "id": "hist_1792576998692",
+          "timestamp": "2026-10-21T10:03:18.692Z",
+          "updated_by": "test-owner",
+          "status": "PUBLISHED",
+          "notes": "Published automatically with active subscription"
+        },
+        {
+          "id": "hist_1792576947902",
+          "timestamp": "2026-10-21T10:02:27.902Z",
+          "updated_by": "test-owner",
+          "status": "BLOCKED_SUBSCRIPTION",
+          "notes": "Subscription has expired. Renew your active plan to publish digital menu updates."
+        },
+        {
+          "id": "hist_1792576947901",
+          "timestamp": "2026-10-21T10:02:27.901Z",
+          "updated_by": "test-owner",
+          "status": "PUBLISHED",
+          "notes": "Published automatically with active subscription"
+        },
+        {
+          "id": "hist_1792576850718",
+          "timestamp": "2026-10-21T10:00:50.718Z",
+          "updated_by": "test-owner",
+          "status": "BLOCKED_SUBSCRIPTION",
+          "notes": "Subscription has expired. Renew your active plan to publish digital menu updates."
+        },
+        {
+          "id": "hist_1792576850717",
+          "timestamp": "2026-10-21T10:00:50.717Z",
+          "updated_by": "test-owner",
+          "status": "PUBLISHED",
+          "notes": "Published automatically with active subscription"
+        },
+        {
+          "id": "hist_1792576850684",
+          "timestamp": "2026-10-21T10:00:50.683Z",
+          "updated_by": "system",
+          "status": "PUBLISHED",
+          "notes": "Menu initialized"
+        }
+      ],
+      "created_at": "2026-10-21T10:00:50.683Z",
+      "updated_at": "2026-10-21T10:31:17.284Z",
+      "pending_version": {
+        "categories": [
+          {
+            "id": "cat_specials",
+            "name": "House Specialties",
+            "display_order": 1
+          },
+          {
+            "id": "cat_classics",
+            "name": "Popular Classics",
+            "display_order": 2
+          }
+        ],
+        "items": [
+          {
+            "id": "item_royal_01",
+            "category_id": "cat_specials",
+            "name": "Paneer Tikka Angara",
+            "description": "Charcoal-smoked cottage cheese marinated in hung curd, Kashmiri chili, and crushed spices.",
+            "price": 290,
+            "display_order": 1,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg",
+              "Chef Special"
+            ]
+          },
+          {
+            "id": "item_royal_02",
+            "category_id": "cat_specials",
+            "name": "Murgh Malai Tikka",
+            "description": "Tender chicken skewers flavored with cream cheese, cardamom, and fresh coriander.",
+            "price": 360,
+            "display_order": 2,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_royal_03",
+            "category_id": "cat_classics",
+            "name": "Dal Makhani Royal",
+            "description": "Slow-simmered black lentils cooked overnight with churned butter and vine-ripened tomatoes.",
+            "price": 260,
+            "display_order": 3,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg",
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_royal_04",
+            "category_id": "cat_classics",
+            "name": "Dum Pukht Murgh Biryani",
+            "description": "Long-grain aged basmati rice layered with spiced chicken, caramelized onions, and saffron aroma.",
+            "price": 380,
+            "display_order": 4,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "item_royal_05",
+            "category_id": "cat_classics",
+            "name": "Garlic & Herb Butter Naan",
+            "description": "Handcrafted flatbread baked in clay tandoor, brushed with roasted garlic butter and cilantro.",
+            "price": 65,
+            "display_order": 5,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg"
+            ]
+          },
+          {
+            "id": "item_royal_06",
+            "category_id": "cat_specials",
+            "name": "Saffron Kulfi Falooda",
+            "description": "Traditional slow-churned condensed milk kulfi infused with Kashmiri saffron and rose syrup.",
+            "price": 150,
+            "display_order": 6,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Veg",
+              "Bestseller"
+            ]
+          },
+          {
+            "id": "test_item_99",
+            "category_id": "cat_specials",
+            "name": "Saffron Kulfi Falooda",
+            "description": "Traditional slow-churned condensed milk kulfi with rose syrup.",
+            "price": 150,
+            "display_order": 9,
+            "visible": true,
+            "available": true
+          },
+          {
+            "id": "test_item_99",
+            "category_id": "cat_specials",
+            "name": "Saffron Kulfi Falooda",
+            "description": "Traditional slow-churned condensed milk kulfi with rose syrup.",
+            "price": 150,
+            "display_order": 9,
+            "visible": true,
+            "available": true
+          }
+        ],
+        "updated_at": "2026-10-21T10:31:17.284Z"
+      }
+    },
+    {
+      "id": "menu_cust_sharma_02",
+      "business_id": "cust_sharma_02",
+      "slug": "sharma-hotel",
+      "published_version": {
+        "categories": [
+          {
+            "id": "cat_specials",
+            "name": "House Specialties",
+            "display_order": 1
+          },
+          {
+            "id": "cat_classics",
+            "name": "Popular Classics",
+            "display_order": 2
+          }
+        ],
+        "items": [
+          {
+            "id": "item_1792576850684_1",
+            "category_id": "cat_specials",
+            "name": "Sharma Hotel Special",
+            "description": "Signature offering crafted with premium quality ingredients.",
+            "price": 250,
+            "display_order": 1,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          }
+        ],
+        "updated_at": "2026-10-21T10:00:50.684Z"
+      },
+      "pending_status": "NONE",
+      "update_history": [
+        {
+          "id": "hist_1792576850684",
+          "timestamp": "2026-10-21T10:00:50.684Z",
+          "updated_by": "system",
+          "status": "PUBLISHED",
+          "notes": "Menu initialized"
+        }
+      ],
+      "created_at": "2026-10-21T10:00:50.684Z",
+      "updated_at": "2026-10-21T10:00:50.684Z"
+    },
+    {
+      "id": "menu_cust_urban_03",
+      "business_id": "cust_urban_03",
+      "slug": "urban-salon",
+      "published_version": {
+        "categories": [
+          {
+            "id": "cat_specials",
+            "name": "House Specialties",
+            "display_order": 1
+          },
+          {
+            "id": "cat_classics",
+            "name": "Popular Classics",
+            "display_order": 2
+          }
+        ],
+        "items": [
+          {
+            "id": "item_1792576850684_1",
+            "category_id": "cat_specials",
+            "name": "Urban Salon Special",
+            "description": "Signature offering crafted with premium quality ingredients.",
+            "price": 250,
+            "display_order": 1,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          }
+        ],
+        "updated_at": "2026-10-21T10:00:50.684Z"
+      },
+      "pending_status": "NONE",
+      "update_history": [
+        {
+          "id": "hist_1792576850684",
+          "timestamp": "2026-10-21T10:00:50.684Z",
+          "updated_by": "system",
+          "status": "PUBLISHED",
+          "notes": "Menu initialized"
+        }
+      ],
+      "created_at": "2026-10-21T10:00:50.684Z",
+      "updated_at": "2026-10-21T10:00:50.684Z"
+    },
+    {
+      "id": "menu_cust_1792570971511_a4f4z",
+      "business_id": "cust_1792570971511_a4f4z",
+      "slug": "spice-haven-cafe",
+      "published_version": {
+        "categories": [
+          {
+            "id": "cat_specials",
+            "name": "House Specialties",
+            "display_order": 1
+          },
+          {
+            "id": "cat_classics",
+            "name": "Popular Classics",
+            "display_order": 2
+          }
+        ],
+        "items": [
+          {
+            "id": "item_1792576850684_1",
+            "category_id": "cat_specials",
+            "name": "Spice Haven Cafe Special",
+            "description": "Signature offering crafted with premium quality ingredients.",
+            "price": 250,
+            "display_order": 1,
+            "visible": true,
+            "available": true,
+            "tags": [
+              "Bestseller"
+            ]
+          }
+        ],
+        "updated_at": "2026-10-21T10:00:50.684Z"
+      },
+      "pending_status": "NONE",
+      "update_history": [
+        {
+          "id": "hist_1792576850684",
+          "timestamp": "2026-10-21T10:00:50.684Z",
+          "updated_by": "system",
+          "status": "PUBLISHED",
+          "notes": "Menu initialized"
+        }
+      ],
+      "created_at": "2026-10-21T10:00:50.684Z",
+      "updated_at": "2026-10-21T10:00:50.684Z"
+    }
+  ],
+  "events": [
+    {
+      "business_id": "cust_royal_01",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_tap"
+      },
+      "id": "evt_1792576850732_77q5",
+      "timestamp": "2026-10-21T10:00:50.732Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_tap"
+      },
+      "id": "evt_1792576947922_yeob",
+      "timestamp": "2026-10-21T10:02:27.922Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_tap"
+      },
+      "id": "evt_1792576998713_1kv3",
+      "timestamp": "2026-10-21T10:03:18.713Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_tap"
+      },
+      "id": "evt_1792577929236_bl1v",
+      "timestamp": "2026-10-21T10:18:49.236Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_id": "card_evz_482731",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_or_qr"
+      },
+      "id": "evt_1792577941059_svgi",
+      "timestamp": "2026-10-21T10:19:01.059Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "event_type": "menu_view",
+      "metadata": {
+        "slug": "royal-restaurant"
+      },
+      "id": "evt_1792577960365_6rbx",
+      "timestamp": "2026-10-21T10:19:20.365Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_tap"
+      },
+      "id": "evt_1792578548517_vewk",
+      "timestamp": "2026-10-21T10:29:08.517Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "event_type": "menu_view",
+      "metadata": {
+        "slug": "royal-restaurant"
+      },
+      "id": "evt_1792578557731_5euv",
+      "timestamp": "2026-10-21T10:29:17.731Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_tap"
+      },
+      "id": "evt_1792578677295_6jyv",
+      "timestamp": "2026-10-21T10:31:17.295Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "card_id": "card_evz_482731",
+      "card_code": "EVZ482731",
+      "event_type": "card_scan",
+      "metadata": {
+        "source": "nfc_or_qr"
+      },
+      "id": "evt_1792578691243_qv4c",
+      "timestamp": "2026-10-21T10:31:31.243Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "event_type": "menu_view",
+      "metadata": {
+        "slug": "royal-restaurant"
+      },
+      "id": "evt_1792578797091_yned",
+      "timestamp": "2026-10-21T10:33:17.091Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "event_type": "menu_view",
+      "metadata": {
+        "slug": "royal-restaurant"
+      },
+      "id": "evt_1792578852579_iroc",
+      "timestamp": "2026-10-21T10:34:12.579Z"
+    },
+    {
+      "business_id": "cust_royal_01",
+      "event_type": "menu_view",
+      "metadata": {
+        "slug": "royal-restaurant"
+      },
+      "id": "evt_1792578855255_sa73",
+      "timestamp": "2026-10-21T10:34:15.255Z"
+    }
+  ],
+  "customer_sessions": [
+    {
+      "token": "f2b458240fa5d4b807dd79284fb4d0952a91885fd4609f6700f16365ddca8bc7",
+      "customerId": "cust_royal_01",
+      "expiresAt": 1793182882635
+    }
+  ]
+}
